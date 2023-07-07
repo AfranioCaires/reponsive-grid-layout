@@ -1,1 +1,3 @@
-# reponsive-grid-layout
+# Reponsive grid layout
+
+Um layout utilizando grid responsivo
